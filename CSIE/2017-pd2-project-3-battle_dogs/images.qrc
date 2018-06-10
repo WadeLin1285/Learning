@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Doggy.png</file>
+        <file>images/Ancient.png</file>
+        <file>images/Catnon.png</file>
+        <file>images/Commander.png</file>
+        <file>images/Dox.png</file>
+        <file>images/Dragon.png</file>
+        <file>images/Ninetail.png</file>
+        <file>images/Soldier.png</file>
+        <file>images/Tall.png</file>
+        <file>images/TallEX.png</file>
+        <file>images/background.jpg</file>
+        <file>images/Icon.png</file>
+        <file>images/Default.png</file>
+        <file>images/Ditch.png</file>
+        <file>images/Bigdog.png</file>
+        <file>images/Jesus.png</file>
+        <file>images/King.png</file>
+        <file>images/Nija.png</file>
+        <file>images/Shield.png</file>
+        <file>images/Saber.png</file>
+        <file>images/Robort.png</file>
+        <file>images/Spartan.png</file>
+        <file>images/Superdog.png</file>
+    </qresource>
+</RCC>

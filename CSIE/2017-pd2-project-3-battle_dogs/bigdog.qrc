@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>animates/Bigdog-attack-2.gif</file>
+        <file>animates/Bigdog-attack.gif</file>
+        <file>animates/Bigdog-walk-2.gif</file>
+        <file>animates/Bigdog-walk.gif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>animates/TallEX-attack-2.gif</file>
+        <file>animates/TallEX-attack.gif</file>
+        <file>animates/TallEX-walk-2.gif</file>
+        <file>animates/TallEX-walk.gif</file>
+    </qresource>
+</RCC>

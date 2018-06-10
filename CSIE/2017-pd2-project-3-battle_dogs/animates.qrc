@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>animates/tower-attack-2.gif</file>
+        <file>animates/tower-attack.gif</file>
+    </qresource>
+</RCC>

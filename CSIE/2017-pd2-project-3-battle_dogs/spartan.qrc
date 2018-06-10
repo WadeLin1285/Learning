@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>animates/Spartan-attack-2.gif</file>
+        <file>animates/Spartan-attack.gif</file>
+        <file>animates/Spartan-walk-2.gif</file>
+        <file>animates/Spartan-walk.gif</file>
+    </qresource>
+</RCC>
