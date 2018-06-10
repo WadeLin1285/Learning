@@ -1,0 +1,9 @@
+Programing C++ HW Lab2
+
+Author:
+	WadeLin
+Topic:
+	Read the file.in and use Elo rating system to calculate the result for each game. Store the result in File.out.
+
+Compile:
+	$ make main
