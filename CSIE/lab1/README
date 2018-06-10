@@ -1,0 +1,7 @@
+Topic: lab1 
+Author: Wade Lin
+
+For question B, the "lab1_B.cpp" file need to compile by command:
+	g++ -o lab_B lab_B.cpp
+Then, a running file "lab_B" is created.
+

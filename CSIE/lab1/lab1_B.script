@@ -1,0 +1,10 @@
+Script started on 2017年03月12日 (週日) 14時57分27秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m gcc[K[K++ -o lab1_B lab1_B.cpp
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m /.lab1_B
+bash: /.lab1_B: No such file or directory
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m ./lab1_B
+Enter an interger: 223.  
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m exit
+
+Script done on 2017年03月12日 (週日) 14時58分21秒

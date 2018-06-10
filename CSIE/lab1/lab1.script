@@ -1,0 +1,27 @@
+Script started on 2017年03月12日 (週日) 11時38分00秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m whoami; pwd
+pd2vm
+/home/pd2vm/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git config -l
+user.name=WadeLin3
+user.email=kirakevin2010@gmail.com
+core.editor=vim
+push.default=matching
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/WadeLin3/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m git clone https://github.com/< your github account>/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[C[C[C[C[C[C[C[1P/lab1.git[C[C[C[C[C[C[1P/lab1.git[C[C[C[C[C[1P/lab1.git[C[C[C[C[1P/lab1.git[C[C[C[1P/lab1.git[C[C[1P/lab1.git[C[1P/lab1.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/l[1Pab1.git[A[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CW/lab1.gita/lab1.git[Cd/lab1.git[C[Ce/lab1.git[C[C[CL/lab1.git[C[C[C[Ci/lab1.git[C[C[C[C[Cn/lab1.git[C[C[C[C[C[C3/lab1.git[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+remote: Counting objects: 19, done.[K
+remote: Compressing objects:   7% (1/14)   [Kremote: Compressing objects:  14% (2/14)   [Kremote: Compressing objects:  21% (3/14)   [Kremote: Compressing objects:  28% (4/14)   [Kremote: Compressing objects:  35% (5/14)   [Kremote: Compressing objects:  42% (6/14)   [Kremote: Compressing objects:  50% (7/14)   [Kremote: Compressing objects:  57% (8/14)   [Kremote: Compressing objects:  64% (9/14)   [Kremote: Compressing objects:  71% (10/14)   [Kremote: Compressing objects:  78% (11/14)   [Kremote: Compressing objects:  85% (12/14)   [Kremote: Compressing objects:  92% (13/14)   [Kremote: Compressing objects: 100% (14/14)   [Kremote: Compressing objects: 100% (14/14), done.[K
+remote: Total 19 (delta 2), reused 19 (delta 2), pack-reused 0[K
+Unpacking objects:   5% (1/19)   Unpacking objects:  10% (2/19)   Unpacking objects:  15% (3/19)   Unpacking objects:  21% (4/19)   Unpacking objects:  26% (5/19)   Unpacking objects:  31% (6/19)   Unpacking objects:  36% (7/19)   Unpacking objects:  42% (8/19)   Unpacking objects:  47% (9/19)   Unpacking objects:  52% (10/19)   Unpacking objects:  57% (11/19)   Unpacking objects:  63% (12/19)   Unpacking objects:  68% (13/19)   Unpacking objects:  73% (14/19)   Unpacking objects:  78% (15/19)   Unpacking objects:  84% (16/19)   Unpacking objects:  89% (17/19)   Unpacking objects:  94% (18/19)   Unpacking objects: 100% (19/19)   Unpacking objects: 100% (19/19), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/lab1 $[00m exit
+
+Script done on 2017年03月12日 (週日) 11時39分07秒
