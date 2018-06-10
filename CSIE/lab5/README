@@ -1,0 +1,14 @@
+Author: WadeLin
+Department: AA
+Student Number: F44026123
+
+
+Using int array of size 100 to store each number of input. Converting other type of input like string, char and int to int array. All of the calculation and I/O uses array to operate.
+
+Output result:
+
+pd2vm@pd2vm-VirtualBox ~/lab5 $ ./main
+123456789
+123456789+28825252 = 152282041
+314159265358855867057
+
